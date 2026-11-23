@@ -1,0 +1,5 @@
+{
+  "version": "0.4.0-alpha",
+  "url": "https://www.patreon.com/",
+  "notes": "Template for the update check: host this file and set UPDATE_URL in src/credits.js. Bump version, url (the release post) and notes each release."
+}
